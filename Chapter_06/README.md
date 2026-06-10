@@ -1,5 +1,5 @@
 # Chapter 6 
-# Appendix B
+# Appendix C
 
 Extending Hypothesis Testing: Beyond Means
 ANOVA
