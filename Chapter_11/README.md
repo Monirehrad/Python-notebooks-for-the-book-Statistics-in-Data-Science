@@ -1,3 +1,4 @@
-# Chapter 11 and Appendix F
+# Chapter 11
+# Appendix G
 
 Classification
