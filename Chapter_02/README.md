@@ -1,3 +1,5 @@
-# Chapter 2 and Appendix A
+# Chapter 2
+# Appendix A 
+# Appendix B
 
-Important Distributions
+Important Distributions and Monte Carlo Simulation
