@@ -1,3 +1,4 @@
-# Chapter 8 and Appendix D
+# Chapter 8 
+# Appendix E
 
 Statistical Power and Sample Size
